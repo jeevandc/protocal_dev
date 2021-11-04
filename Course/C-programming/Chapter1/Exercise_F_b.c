@@ -12,11 +12,11 @@ int main()
   cm=meters*100.0;
   feet=3.28084*meters;
   inches=12.0*feet;
-  printf("*****************************\n");
+  printf("*********************************\n");
   printf("The distance in meters = %.2f\n",meters);
   printf("The distance in centimeters = %.2f\n",cm);
   printf("The distance in feet = %.2f\n",feet);
   printf("The distance in inches = %.2f\n",inches);
-  printf("*****************************\n");
+  printf("*********************************\n");
   return 0;
  }
