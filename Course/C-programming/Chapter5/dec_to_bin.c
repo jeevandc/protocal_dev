@@ -10,7 +10,6 @@ int main() {
   printf("Enter a decimal number: ");
   scanf("%d", &n);
   dec=n;
-//  bin = convert(n);
   printf("\nReverse Order:");
   while (n!=0) {
     rem = n % 2;
